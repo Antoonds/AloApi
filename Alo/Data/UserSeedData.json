@@ -1,0 +1,52 @@
+[
+  {
+    "UserName": "Roach",
+    "Gender": "male",
+    "DateOfBirth": "1994-03-05",
+    "Tak": "Kapoenen",
+    "KnownAs": "Roach",
+    "Photo": {
+      "Url": "https://randomuser.me/api/portraits/men/45.jpg"
+    }
+  },
+  {
+    "UserName": "Jacobson",
+    "Gender": "male",
+    "DateOfBirth": "1996-05-31",
+    "Tak": "Kapoenen",
+    "KnownAs": "Jacobson",
+    "Photo": {
+      "Url": "https://randomuser.me/api/portraits/men/31.jpg"
+    }
+  },
+  {
+    "UserName": "Sloan",
+    "Gender": "male",
+    "DateOfBirth": "1971-01-01",
+    "Tak": "Kapoenen",
+    "KnownAs": "Sloan",
+    "Photo": {
+      "Url": "https://randomuser.me/api/portraits/men/18.jpg"
+    }
+  },
+  {
+    "UserName": "Foster",
+    "Gender": "male",
+    "DateOfBirth": "1967-04-26",
+    "Tak": "Kapoenen",
+    "KnownAs": "Foster",
+    "Photo": {
+      "Url": "https://randomuser.me/api/portraits/men/84.jpg"
+    }
+  },
+  {
+    "UserName": "Gray",
+    "Gender": "male",
+    "DateOfBirth": "1961-10-28",
+    "Tak": "Kapoenen",
+    "KnownAs": "Gray",
+    "Photo": {
+      "Url": "https://randomuser.me/api/portraits/men/71.jpg"
+    }
+  }
+]
